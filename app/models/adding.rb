@@ -1,0 +1,2 @@
+class Adding < ApplicationRecord
+end
